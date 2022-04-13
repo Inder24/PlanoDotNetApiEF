@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+aBNOpInDEyfhPWZJ7ViYMaaQhOij/Zg9TznGmaLsXzuxMArIlho5IzXSETym3/3+ovJaF5YzRmBTTuuxw5ROg==",
+  "dgSpecHash": "Kxzfsr7n6yiP2DA2ydKs7oATHSuGmOlEi+tJTdUpVz4CMH/fcpx3yWQ4KKE3/BpUy4D3cXaciRtUfsxnybFdwg==",
   "success": true,
   "projectFilePath": "D:\\visual studio code\\plano\\PlanoCurrency\\PlanoCurrency.csproj",
   "expectedPackageFiles": [
@@ -37,7 +37,9 @@
     "C:\\Users\\H K SINGH\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
     "C:\\Users\\H K SINGH\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\H K SINGH\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\H K SINGH\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\H K SINGH\\.nuget\\packages\\nunit\\3.11.0\\nunit.3.11.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\H K SINGH\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.0\\swashbuckle.aspnetcore.6.3.0.nupkg.sha512",
     "C:\\Users\\H K SINGH\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",

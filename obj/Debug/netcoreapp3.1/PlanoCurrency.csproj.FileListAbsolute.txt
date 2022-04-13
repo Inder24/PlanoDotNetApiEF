@@ -63,6 +63,7 @@ D:\visual studio code\plano\PlanoCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x
 D:\visual studio code\plano\PlanoCurrency\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\visual studio code\plano\PlanoCurrency\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\visual studio code\plano\PlanoCurrency\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\visual studio code\plano\PlanoCurrency\bin\Debug\netcoreapp3.1\nunit.framework.dll
 D:\visual studio code\plano\PlanoCurrency\obj\Debug\netcoreapp3.1\PlanoCurrency.csproj.CoreCompileInputs.cache
 D:\visual studio code\plano\PlanoCurrency\obj\Debug\netcoreapp3.1\PlanoCurrency.MvcApplicationPartsAssemblyInfo.cs
 D:\visual studio code\plano\PlanoCurrency\obj\Debug\netcoreapp3.1\PlanoCurrency.MvcApplicationPartsAssemblyInfo.cache
