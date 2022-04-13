@@ -1,0 +1,3 @@
+﻿For creating the db context files -> i use scaffolding for faster setup.
+ Scaffold-DbContext "Server=tcp:plano-hiring.cms5owchdtsp.ap-southeast-1.rds.amazonaws.com,1433;Initial Catalog=planoTestOne;Persist Security Info=False;User ID=inderpreet;Password=plano@123;MultipleActiveResultSets=False;TrustServerCertificate=False;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Database -Context "ApplicationDbContext" -DataAnnotations
+ Scaffold-DbContext -Connection Name=CurrencyDB Microsoft.EntityFrameworkCore.SqlServer -OutputDir Database -Context "ApplicationDbContext" -DataAnnotations -force
